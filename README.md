@@ -26,12 +26,11 @@ Ce projet est une application web pour un magasin de location de costumes de cé
 
 Assurez-vous d'avoir Node.js, Ruby et PostgreSQL installés sur votre machine avant de commencer.
 
-### Configuration du Back-End (Rails)
+### Configuration du Back-End (Directus)
 
 1. Cloner le dépôt du back-end.
-2. Installer les dépendances : `bundle install`
-3. Configurer la base de données : `rails db:create db:migrate`
-4. Lancer le serveur Rails : `rails server`
+2. Installer Directus et configurer votre base de données.
+3. Lancer le serveur Directus.
 
 ### Configuration du Front-End (React)
 
