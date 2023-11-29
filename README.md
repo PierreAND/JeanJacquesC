@@ -50,10 +50,10 @@ Les contributions sont les bienvenues. Veuillez suivre les étapes suivantes pou
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
+Ce projet est sous licence MIT.
 
 ## Contact
 
-Votre nom - [andrieu.ps@gmail.com](mailto:andrieu.ps@gmail.com)
+ [andrieu.ps@gmail.com](mailto:andrieu.ps@gmail.com)
 
 Lien du projet : [https://github.com/PierreAND/JeanJacquesC](https://github.com/PierreAND/JeanJacquesC)
