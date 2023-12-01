@@ -48,6 +48,34 @@ Les contributions sont les bienvenues. Veuillez suivre les étapes suivantes pou
 4. Push sur la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrir une Pull Request
 
+
+
+## Diagram Cas d'utilisation 
+
+
+image::./public/diagramUserStories.png[interface]
+
+
+
+
+
+
+## Diagram Entité (DB)
+
+
+
+
+
+
+
+
+## Diagram de sequence 
+
+
+
+
+
+
 ## Licence
 
 Ce projet est sous licence MIT.

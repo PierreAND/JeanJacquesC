@@ -1,4 +1,4 @@
-
+import Navbar from "./components/NavBar/Navbar"
 
 
 function App() {
@@ -6,7 +6,8 @@ function App() {
 
   return (
     <>
-   
+   <Navbar />
+   <p>SALUT JE MAPEL ALEX</p>
     </>
   )
 }
