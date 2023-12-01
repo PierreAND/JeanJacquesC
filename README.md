@@ -57,7 +57,6 @@ Les contributions sont les bienvenues. Veuillez suivre les étapes suivantes pou
 
 
 
-![Texte alternatif](public/diagramEntity.png)
 
 
 
@@ -65,6 +64,7 @@ Les contributions sont les bienvenues. Veuillez suivre les étapes suivantes pou
 ## Diagram Entité (DB)
 
 
+![Texte alternatif](public/diagramEntity.png)
 
 
 
