@@ -53,7 +53,7 @@ Les contributions sont les bienvenues. Veuillez suivre les étapes suivantes pou
 ## Diagram Cas d'utilisation
 
 
-![Texte alternatif](public/diagramUserStories.png)
+![Texte alternatif](public/diagramUser.png)
 
 
 
