@@ -50,10 +50,11 @@ Les contributions sont les bienvenues. Veuillez suivre les étapes suivantes pou
 
 
 
-## Diagram Cas d'utilisation 
+## Diagram Cas d'utilisation
 
 
-image::./public/diagramUserStories.png[interface]
+![Texte alternatif](public/diagramUserStories.png)
+
 
 
 
