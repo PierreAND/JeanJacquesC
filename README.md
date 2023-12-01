@@ -57,6 +57,7 @@ Les contributions sont les bienvenues. Veuillez suivre les étapes suivantes pou
 
 
 
+![Texte alternatif](public/diagramEntity.png)
 
 
 
