@@ -80,7 +80,7 @@ Les contributions sont les bienvenues. Veuillez suivre les étapes suivantes pou
 
 ## Licence
 
-Ce projet est sous licence MIT.
+Ce projet est sous licence GPL.
 
 ## Contact
 
